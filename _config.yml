@@ -50,6 +50,7 @@ reddit: oranav
 # vimeo: myvimeo
 # lanyrd: mylanyrd
 # email: myemail@gmail.com
+publickey: "/oranav.key"
 
 # authors:
 

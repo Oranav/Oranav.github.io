@@ -100,4 +100,10 @@
             <svg class="icon icon-mail"><use xlink:href="#icon-mail"></use></svg>
         </a>
     {% endif %}
+    
+    {% if site.publickey %}
+        <a class="link" data-title="Public key" href="{{ site.publickey }}">
+            <svg class="icon icon-key"><use xlink:href="#icon-key"></use></svg>
+        </a>
+    {% endif %}
 </div>
