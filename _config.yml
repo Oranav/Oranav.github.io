@@ -18,6 +18,8 @@ resume-url: ""
 
 url: https://oranav.me
 
+title: "@oranav"
+
 permalink: /:title/
 
 # To enable google analytics, supply your token below
