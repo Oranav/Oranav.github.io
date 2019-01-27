@@ -1,5 +1,6 @@
 {
-    "name": "@oranav",
+    "name": "",
+    "short_name": "",
     "icons": [
         {
             "src": "/assets/images/favicon/android-chrome-192x192.png",
@@ -7,8 +8,8 @@
             "type": "image/png"
         },
         {
-            "src": "/assets/images/favicon/android-chrome-512x512.png",
-            "sizes": "512x512",
+            "src": "/assets/images/favicon/android-chrome-256x256.png",
+            "sizes": "256x256",
             "type": "image/png"
         }
     ],
